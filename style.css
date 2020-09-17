@@ -1,0 +1,27 @@
+.firstRow{
+    height: 40px;   
+    background-color: darkslateblue;
+}
+
+
+.btn1{
+    font-size: 0.7em;
+    width: 80px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: dodgerblue;
+}
+.btn2{
+    font-size: 0.7em;
+    width: 80px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: dodgerblue;
+}
+
+p{
+    width: 200px;
+    height: 70px;
+}
